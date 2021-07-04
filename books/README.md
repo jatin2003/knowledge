@@ -17,3 +17,8 @@ I love reading books.
 * Steve Jobs by Walter Isaacson
 * Sapiens by Yuval Noah Harari
 
+## Links
+
+* [Why has no one made a better Goodreads](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a) ([HN](https://news.ycombinator.com/item?id=26834833))
+
+
