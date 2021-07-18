@@ -18,6 +18,7 @@
 * [Space](space.md)
 * [Writing](writing.md)
 * [Others](others/README.md)
+  * [Anime](others/anime.md)
   * [Cryptography](others/cryptography.md)
   * [Blogs](others/blogs.md)
 
