@@ -1,2 +1,5 @@
 # Atomic Habits
 
+## Quotes
+
+- “HABITS CREATE THE FOUNDATION FOR MASTERY.”
